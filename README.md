@@ -41,7 +41,7 @@
  
  ### 👀 My Curiosity
  
-- 🔭 I’m currently working on **[Marttech - Desenvolvimento de Softwares](https://marttech.com.br/).**
+- 🔭 I’m currently working on **[DB1 Group](https://www.db1.com.br/).**
 - 🌱 I’m currently learning: React-Native, ReactJS
   
 </div>
